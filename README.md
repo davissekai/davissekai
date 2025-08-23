@@ -1,16 +1,35 @@
-## Hi there 👋
+# Greetings, I am Davis
 
-<!--
-**davissekai/davissekai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ *AI Researcher | Business Strategist | Builder*  
+Passionate about creating intelligent systems that *augment human capacity* rather than replace it.  
+Currently focused on:   
+- Research in *AI Alignment* and *Climate-focused AI solutions*  
+- Exploring how AI can transform businesses through *AI Business Strategy*  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Featured Projects 
+
+- [*Von Neumann Computer Simulator*](https://github.com/davissekai/Von-Neumann-Computer-Sim)  
+  Educational Simulator → A hands-on way to understand computer architecture and the Von Neumann model.  
+
+- *Carbon Footprint Project*  
+  Research + coding project to measure, track, and reduce environmental impact using optimization models.  
+
+---
+
+## 🛠 Tech Arsenal  
+- *Languages:* Python, JavaScript
+- *AI/ML:* scikit-learn, TensorFlow, PyTorch, Vertex AI, Gemini, OpenAI, Anthropic  
+- *Tools:* Warp, Cursor, VS Code, Vercel, GitHub, NotebookLM  
+- *Other Interests:* Agentic workflows, neuroscience 
+
+---
+
+##  Connect with me  
+- GitHub: [davissekai](https://github.com/davissekai)  
+- LinkedIn: (https://www.linkedin.com/in/davis-dey-141428201/)  
+- Twitter/X: (https://x.com/tier1ren)  
+
+---
+✨ “Now everyone is a programmer. The question is: what will you create with it?” — Jensen Huang

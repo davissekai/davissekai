@@ -18,7 +18,7 @@ Currently focused on:
 
 ---
 
-## 🛠 Tech Arsenal  
+## Stack
 - *Languages:* Python, JavaScript
 - *AI/ML:* scikit-learn, TensorFlow, PyTorch, Vertex AI, Gemini, OpenAI, Anthropic  
 - *Tools:* Warp, Cursor, VS Code, Vercel, GitHub, NotebookLM  

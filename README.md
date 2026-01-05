@@ -42,7 +42,3 @@ Building things that solve real problems for real people. Not chasing hype.
 ---
 
 *"The world doesn't care about your plans. It cares about what you build."*
-
----
-
-Does that land? Anything you want to adjust?

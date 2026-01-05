@@ -1,35 +1,48 @@
 # Greetings, I am Davis
 
- *AI Researcher | Business Strategist | Builder*  
-Passionate about creating intelligent systems that *augment human capacity* rather than replace it.  
-Currently focused on:   
-- Research in *AI Alignment* and *Climate-focused AI solutions*  
-- Exploring how AI can transform businesses through *AI Business Strategy*  
+*Builder | Infra Architect | Systems Thinker*
+
+Building infrastructure that makes complex systems (financial markets, climate data, AI augmentation) accessible and trustworthy.
+
+Currently focused on:
+- **Capital Insight:** Financial research infrastructure for young Ghanaians
+- **Project Gaia:** Emissions data layer for African carbon markets
+- **OpenMind:** Thought leadership on systems thinking, execution
+- **Agentic AI:** Learning to build agents that think, not just respond
 
 ---
 
-##  Featured Projects 
-
-- [*Von Neumann Computer Simulator*](https://github.com/davissekai/Von-Neumann-Computer-Sim)  
-  Educational Simulator → A hands-on way to understand computer architecture and the Von Neumann model.  
-
-- *Carbon Footprint Project*  
-  Research + coding project to measure, track, and reduce environmental impact using optimization models.  
 
 ---
 
 ## Stack
-- *Languages:* Python, JavaScript
-- *AI/ML:* scikit-learn, TensorFlow, PyTorch, Vertex AI, Gemini, OpenAI, Anthropic  
-- *Tools:* Warp, Cursor, VS Code, Vercel, GitHub, NotebookLM  
-- *Other Interests:* Agentic workflows, neuroscience 
+
+- **Languages:** Python, JavaScript
+- **Frameworks:** FastAPI, React, Vite
+- **AI:** Gemini, Claude, agentic AI workflows, 
+- **Tools:** Claude Code, Antigravity, Vercel, GitHub
+- **Infrastructure:** Building systems for context preservation, verifiability, and scalability
 
 ---
 
-##  Connect with me  
-- GitHub: [davissekai](https://github.com/davissekai)  
-- LinkedIn: (https://www.linkedin.com/in/davis-dey-141428201/)  
-- Twitter/X: (https://x.com/tier1ren)  
+## Philosophy
+
+Infrastructure > Features. Systems > Tools. Execution > Planning.
+
+Building things that solve real problems for real people. Not chasing hype.
 
 ---
-✨ “Now everyone is a programmer. The question is: what will you create with it?” — Jensen Huang
+
+## Connect with me
+
+- GitHub: [davissekai](https://github.com/davissekai)
+- LinkedIn: [Davis Dey](https://www.linkedin.com/in/davis-dey-141428201/)
+- Twitter/X: [@Renhuang_01](https://x.com/Renhuang_01)
+
+---
+
+*"The world doesn't care about your plans. It cares about what you build."*
+
+---
+
+Does that land? Anything you want to adjust?

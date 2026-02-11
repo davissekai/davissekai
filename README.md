@@ -1,36 +1,10 @@
 # Greetings, I am Davis
 
-*Builder | Infra Architect | Systems Thinker*
-
-Building infrastructure that makes complex systems (financial markets, climate data, AI augmentation) accessible and trustworthy.
 
 Currently focused on:
 - **Capital Insight:** Financial research infrastructure for young Ghanaians
 - **Project Gaia:** Emissions data layer for African carbon markets
-- **OpenMind:** Thought leadership on systems thinking, execution
-- **Agentic AI:** Learning to build agents that think, not just respond
-
 ---
-
-
----
-
-## Stack
-
-- **Languages:** Python, JavaScript
-- **Frameworks:** FastAPI, React, Vite
-- **AI:** Gemini, Claude, agentic AI workflows, 
-- **Tools:** Claude Code, Antigravity, Vercel, GitHub
-- **Infrastructure:** Building systems for context preservation, verifiability, and scalability
-
----
-
-## Philosophy
-
-Infrastructure > Features. Systems > Tools. Execution > Planning.
-
-Building things that solve real problems for real people. Not chasing hype.
-
 ---
 
 ## Connect with me

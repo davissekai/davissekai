@@ -1,12 +1,6 @@
 # Greetings, I am Davis
 
 
-Currently focused on:
-- **Capital Insight:** Financial research infrastructure for young Ghanaians
-- **Project Gaia:** Emissions data layer for African carbon markets
----
----
-
 ## Connect with me
 
 - GitHub: [davissekai](https://github.com/davissekai)

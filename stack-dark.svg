@@ -1,16 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 673 32" width="673" height="32" role="img" aria-label="typescript, react, vite, tailwind, three.js, python, playwright">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 657 32" width="657" height="32" role="img" aria-label="typescript, react, vite, python, claude code, codex, opencode">
   <rect x="1" y="1" width="108" height="30" rx="15" fill="#191d23" stroke="#2f353d" stroke-width="1"/>
   <text x="55.0" y="20.5" font-family="'DejaVu Sans Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13" fill="#d5dae0" text-anchor="middle">typescript</text>
   <rect x="118" y="1" width="69" height="30" rx="15" fill="#191d23" stroke="#2f353d" stroke-width="1"/>
   <text x="152.5" y="20.5" font-family="'DejaVu Sans Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13" fill="#d5dae0" text-anchor="middle">react</text>
   <rect x="196" y="1" width="61" height="30" rx="15" fill="#191d23" stroke="#2f353d" stroke-width="1"/>
   <text x="226.5" y="20.5" font-family="'DejaVu Sans Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13" fill="#d5dae0" text-anchor="middle">vite</text>
-  <rect x="266" y="1" width="93" height="30" rx="15" fill="#191d23" stroke="#2f353d" stroke-width="1"/>
-  <text x="312.5" y="20.5" font-family="'DejaVu Sans Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13" fill="#d5dae0" text-anchor="middle">tailwind</text>
-  <rect x="368" y="1" width="93" height="30" rx="15" fill="#191d23" stroke="#2f353d" stroke-width="1"/>
-  <text x="414.5" y="20.5" font-family="'DejaVu Sans Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13" fill="#d5dae0" text-anchor="middle">three.js</text>
-  <rect x="470" y="1" width="77" height="30" rx="15" fill="#191d23" stroke="#2f353d" stroke-width="1"/>
-  <text x="508.5" y="20.5" font-family="'DejaVu Sans Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13" fill="#d5dae0" text-anchor="middle">python</text>
-  <rect x="556" y="1" width="108" height="30" rx="15" fill="#191d23" stroke="#2f353d" stroke-width="1"/>
-  <text x="610.0" y="20.5" font-family="'DejaVu Sans Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13" fill="#d5dae0" text-anchor="middle">playwright</text>
+  <rect x="266" y="1" width="77" height="30" rx="15" fill="#191d23" stroke="#2f353d" stroke-width="1"/>
+  <text x="304.5" y="20.5" font-family="'DejaVu Sans Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13" fill="#d5dae0" text-anchor="middle">python</text>
+  <rect x="352" y="1" width="116" height="30" rx="15" fill="#191d23" stroke="#2f353d" stroke-width="1"/>
+  <text x="410.0" y="20.5" font-family="'DejaVu Sans Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13" fill="#d5dae0" text-anchor="middle">claude code</text>
+  <rect x="477" y="1" width="69" height="30" rx="15" fill="#191d23" stroke="#2f353d" stroke-width="1"/>
+  <text x="511.5" y="20.5" font-family="'DejaVu Sans Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13" fill="#d5dae0" text-anchor="middle">codex</text>
+  <rect x="555" y="1" width="93" height="30" rx="15" fill="#191d23" stroke="#2f353d" stroke-width="1"/>
+  <text x="601.5" y="20.5" font-family="'DejaVu Sans Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13" fill="#d5dae0" text-anchor="middle">opencode</text>
 </svg>

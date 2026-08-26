@@ -24,7 +24,7 @@ I build AI-enabled products, simulation and interactive systems, and the tooling
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="stack-dark.svg">
-  <img alt="typescript, react, vite, tailwind, three.js, python, playwright" src="stack-light.svg">
+  <img alt="typescript, react, vite, python, claude code, codex, opencode" src="stack-light.svg">
 </picture>
 
 <br>

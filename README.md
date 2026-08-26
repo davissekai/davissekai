@@ -16,7 +16,7 @@ My work spans AI-enabled products, simulation and interactive systems, and resea
 |  |  |  |
 |:--|:--|:--|
 | **VentureQuest** | A climate entrepreneurship simulation where players build and grow a venture through the decisions founders actually face. | [live&nbsp;→](https://mvp-six-vert.vercel.app/) |
-| **Carbon Markets for SMEs** | How AI, better MRV infrastructure, and product design could make carbon-market participation more accessible to smaller businesses in Ghana and, eventually, across Africa. | `in development` |
+| **Carbon Markets for SMEs** | How AI, better MRV infrastructure, and product design could make carbon-market participation more accessible to smaller businesses in Ghana and, eventually, across Africa. | <code>in&nbsp;development</code> |
 | **Atmo** | An AI climate and sustainability assistant built to make complex climate knowledge easier to interrogate, understand, and use. | [live&nbsp;→](https://atmo-v2.vercel.app)<br>[source&nbsp;→](https://github.com/davissekai/atmo-v2) |
 
 <br>

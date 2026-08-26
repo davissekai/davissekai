@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 210" width="900" height="210" role="img" aria-label="Davis Dey — building at the intersection of ai, climate, and entrepreneurship">
-  <text x="40" y="112" font-family="Georgia, 'Times New Roman', 'Playfair Display', serif" font-size="94" letter-spacing="-3">
-    <tspan fill="#0a0a0a">Davis Dey</tspan><tspan font-family="'DejaVu Sans Mono', Menlo, Consolas, 'Courier New', monospace" font-size="74" fill="#00d437">&#9608;</tspan>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 176" width="900" height="176" role="img" aria-label="davis dey — building at the intersection of ai, climate, and entrepreneurship">
+  <text x="40" y="92" font-family="'DejaVu Sans Mono', Menlo, Consolas, 'Courier New', monospace" font-size="70" letter-spacing="-1">
+    <tspan fill="#0a0a0a">davis dey</tspan><tspan fill="#00d437">&#9608;</tspan>
   </text>
-  <line x1="40" y1="146" x2="860" y2="146" stroke="#e0e0e0" stroke-width="1"/>
-  <text x="40" y="178" font-family="'DejaVu Sans Mono', Menlo, Consolas, 'Courier New', monospace" font-size="16" fill="#777" letter-spacing="0.4">building at the intersection of ai, climate, and entrepreneurship.</text>
+  <line x1="40" y1="120" x2="860" y2="120" stroke="#e0e0e0" stroke-width="1"/>
+  <text x="40" y="150" font-family="'DejaVu Sans Mono', Menlo, Consolas, 'Courier New', monospace" font-size="16" fill="#777" letter-spacing="0.4">building at the intersection of ai, climate, and entrepreneurship.</text>
 </svg>
